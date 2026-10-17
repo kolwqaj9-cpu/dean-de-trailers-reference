@@ -1,0 +1,28 @@
+site_name: "Cargo Trailer Manufacturing Shop Record"
+site_url: https://dean-de-trailers-reference.readthedocs.io/
+site_description: "Cargo Trailer Manufacturing Shop Record: preserved shop record index."
+site_author: "Dean De Trailers Archive"
+copyright: "Preserved shop record index."
+
+docs_dir: docs
+
+theme:
+  name: material
+  features:
+    - navigation.top
+  palette:
+    - scheme: default
+      primary: indigo
+
+nav:
+  - Reference: index.md
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+extra:
+  generator: false
