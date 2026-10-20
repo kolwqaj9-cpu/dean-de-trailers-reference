@@ -43,11 +43,10 @@ Preserved shop record for deandetrailers.com. The former plant is not quoting fr
 
 See the full index at [deandetrailers.com](https://deandetrailers.com/).
 
-Service pages maintained with this archive
-================================
+## Service pages maintained with this archive
 
 The reference notes above support the production work documented on the shop's own service pages:
 
-* `Trailer Payload Capacity — Specification Guide <https://https://deandetrailers.com/services/trailer-payload-capacity.html>`_ — Learn how trailer payload capacity is determined by GVWR, axle, tire, and frame ratings, and what to verify on the certification label.
-* `Gooseneck Trailer — Specification Guide <https://https://deandetrailers.com/services/gooseneck-trailer.html>`_ — How gooseneck trailers are specified: deck height, coupler and tube design, turning clearance, rear-axle weight distribution, and when a bumper-pull is bet
-* `Trailer Frame Design — Specification Guide <https://https://deandetrailers.com/services/trailer-frame-design.html>`_ — Trailer frame design guide: main rail size, crossmember spacing, gussets, tongue structure, weld sequence, corrosion protection, and load cases.
+* **[Trailer Payload Capacity — Specification Guide](https://deandetrailers.com/services/trailer-payload-capacity.html)** — Learn how trailer payload capacity is determined by GVWR, axle, tire, and frame ratings, and what to verify on the certification label.
+* **[Gooseneck Trailer — Specification Guide](https://deandetrailers.com/services/gooseneck-trailer.html)** — How gooseneck trailers are specified: deck height, coupler and tube design, turning clearance, rear-axle weight distribution, and when a bumper-pull is bet
+* **[Trailer Frame Design — Specification Guide](https://deandetrailers.com/services/trailer-frame-design.html)** — Trailer frame design guide: main rail size, crossmember spacing, gussets, tongue structure, weld sequence, corrosion protection, and load cases.
